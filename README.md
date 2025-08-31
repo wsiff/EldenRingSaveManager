@@ -18,9 +18,9 @@ backup_folder = r"C:\Path\To\Your\BackupFolder"              # Where backups wil
 
 ## Usage
 
-- Backup Save: Click to create a timestamped backup of your save folder.
-- Restore Save: Click to restore the latest backup to your save folder.
-- Popups will indicate success or errors.
-- Every backup is stored in a **unique folder** named `Saves_Backup_YYYYMMDD_HHMMSS`.
-- The script automatically selects the **latest backup** for restoration.
-- Ensure no game processes are running while backing up or restoring saves.
+Backup Save: Click to create a timestamped backup of your save folder.
+Restore Save: Click to restore the latest backup to your save folder.
+Popups will indicate success or errors.
+Every backup is stored in a **unique folder** named `Saves_Backup_YYYYMMDD_HHMMSS`.
+The script automatically selects the **latest backup** for restoration.
+Ensure no game processes are running while backing up or restoring saves.
