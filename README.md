@@ -13,7 +13,7 @@ Script to load a backup, handy if you want to repeat a boss fight after beating 
 
 ```python
 save_folder = os.path.expandvars(r"%APPDATA%\EldenRing")  # Folder containing your game saves
-backup_folder = r"C:\Path\To\Your\BackupFolder"              # Where backups will be stored
+backup_folder = r"C:\Path\To\Your\BackupFolder"           # Where backups will be stored
 ```
 
 ## Usage
